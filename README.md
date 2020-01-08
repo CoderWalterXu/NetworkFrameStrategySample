@@ -1,5 +1,5 @@
 # NetworkFrameStrategySample
-策略模式，切换网络框架，支持Volley,OkHttp
+切换网络框架示例，支持Volley,OkHttp，策略模式
 
 
 In Application：
